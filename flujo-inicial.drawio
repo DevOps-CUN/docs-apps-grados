@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T19:54:06.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8VWM_QfBcLo_rMRpXCbo" version="20.2.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-25T16:41:52.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DMVP9NwE370OKcTNnHBK" version="20.2.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Idea Base">
-    <mxGraphModel dx="958" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="914" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -132,7 +132,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KcrB79tQvXw1HkM2O3TV-43" value="Requisitos Academicos" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="819" y="670" width="140" height="120" as="geometry" />
+          <mxGeometry x="819" y="670" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="KcrB79tQvXw1HkM2O3TV-44" value="Documentos" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-43" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
@@ -143,6 +143,9 @@
         <mxCell id="KcrB79tQvXw1HkM2O3TV-46" value="Segundo Idioma" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-43" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="xdb376eWwAGsrhtagtmB-0" value="Reconocimiento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="KcrB79tQvXw1HkM2O3TV-43">
+          <mxGeometry y="120" width="140" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="KcrB79tQvXw1HkM2O3TV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KcrB79tQvXw1HkM2O3TV-44" target="KcrB79tQvXw1HkM2O3TV-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -152,7 +155,7 @@
         <mxCell id="KcrB79tQvXw1HkM2O3TV-50" value="Pagos pendientes" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-49" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wNGZm2kJI77TFzx6nnfm-16" value="Derechos de grado" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-49" vertex="1">
+        <mxCell id="wNGZm2kJI77TFzx6nnfm-16" value="Derechos de grado (si aplica)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-49" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wNGZm2kJI77TFzx6nnfm-0" value="&lt;h1&gt;Comentarios&lt;/h1&gt;&lt;p&gt;El enfoque debe ser hacia o academico no hacia lo financiero&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -241,7 +244,7 @@
         <mxCell id="hSfOurcO3rWAVXowIYZ1-0" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="330" y="600" width="140" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="hSfOurcO3rWAVXowIYZ1-1" value="Razon por a que no cumple - Muestra la cantidad actual de solicitudes para el periodo en curso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="hSfOurcO3rWAVXowIYZ1-1" value="Razon por la que no cumple - Muestra la cantidad actual de solicitudes para el periodo en curso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="336" y="630" width="124" height="90" as="geometry" />
         </mxCell>
         <mxCell id="hSfOurcO3rWAVXowIYZ1-2" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -254,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c7hfNskfyLxJYvktAnP8" name="Admisintracion">
-    <mxGraphModel dx="1574" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,7 +466,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cFW-zVl3-5WZ-JM660Pa" name="Usuario Final">
-    <mxGraphModel dx="1102" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1885" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -473,19 +476,19 @@
         <mxCell id="UQRl7Wu-R3-50-JvrKeR-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-54" value="Cuadro de Busqueda" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-54" value="Login correo CUN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="350" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UQRl7Wu-R3-50-JvrKeR-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
           <mxGeometry x="520" y="320" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-57" value="Respuesta negativa para grado que incluye los requisitos faltantes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="525" y="350" width="200" height="50" as="geometry" />
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-57" value="Respuesta negativa para grado que incluye los requisitos faltantes&lt;br&gt;&lt;br&gt;- Control de solicitudes&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="525" y="370" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UQRl7Wu-R3-50-JvrKeR-58" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
           <mxGeometry x="280" y="320" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-59" value="Respuesta positiva para grado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-59" value="Respuesta positiva para grado&lt;br&gt;&lt;br&gt;- Fechas&lt;br&gt;-&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="285" y="350" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LxxBXDv3WvRy1CkYBBr0-1" value="Usuario Final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
