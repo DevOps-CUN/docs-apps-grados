@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T16:41:52.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="DMVP9NwE370OKcTNnHBK" version="20.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-25T16:42:59.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3cL7lxUAjaoKIy9h6_6x" version="20.2.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Idea Base">
     <mxGraphModel dx="914" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -235,10 +235,10 @@
         <mxCell id="pGo4UR4lIlpBokla-ClC-0" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="99" y="230" width="160" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pGo4UR4lIlpBokla-ClC-4" value="&lt;sup&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;Numero de documento&lt;/span&gt;&lt;font color=&quot;#ff0000&quot;&gt;*&lt;/font&gt;&lt;/sup&gt;" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pGo4UR4lIlpBokla-ClC-4" value="Login Correo CUN" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="116" y="260" width="126" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="pGo4UR4lIlpBokla-ClC-5" value="1000679765678" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="pGo4UR4lIlpBokla-ClC-5" value="laika@cun.edu.co" style="rounded=1;arcSize=9;align=left;spacingLeft=5;strokeColor=#4C9AFF;html=1;strokeWidth=2;fontSize=12" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="112" y="290" width="134" height="25" as="geometry" />
         </mxCell>
         <mxCell id="hSfOurcO3rWAVXowIYZ1-0" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -466,7 +466,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cFW-zVl3-5WZ-JM660Pa" name="Usuario Final">
-    <mxGraphModel dx="1885" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
