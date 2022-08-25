@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T16:42:59.364Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3cL7lxUAjaoKIy9h6_6x" version="20.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-25T17:04:28.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ku0EeXQ_TL15UzHEBVAu" version="20.2.6" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Idea Base">
-    <mxGraphModel dx="914" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -257,7 +257,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="c7hfNskfyLxJYvktAnP8" name="Admisintracion">
-    <mxGraphModel dx="1554" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -429,7 +429,7 @@
         <mxCell id="l9trrbpk7DM9Fzsw6hEF-100" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=none;fillColor=#aaddff;" parent="l9trrbpk7DM9Fzsw6hEF-55" vertex="1">
           <mxGeometry x="107.66666666666669" y="35" width="22.166666666666668" height="3.333333333333334" as="geometry" />
         </mxCell>
-        <mxCell id="l9trrbpk7DM9Fzsw6hEF-101" value="Seleccinonar solicitudes que cumplen todos los requistos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="l9trrbpk7DM9Fzsw6hEF-101" value="Seleccionnar solicitudes que cumplen todos los requistos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1005" y="350" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l9trrbpk7DM9Fzsw6hEF-102" value="Exportar data o compartir" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -438,8 +438,8 @@
         <mxCell id="l9trrbpk7DM9Fzsw6hEF-103" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
           <mxGeometry x="1240" y="320" width="210" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="l9trrbpk7DM9Fzsw6hEF-104" value="Enviar notificacion" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1245" y="350" width="200" height="50" as="geometry" />
+        <mxCell id="l9trrbpk7DM9Fzsw6hEF-104" value="- Enviar notificacion al usuario para validar los datos del acta&lt;br&gt;- Generar acta de grado con consecutivo&lt;br&gt;- Notificar a Bienestar&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1245" y="350" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="l9trrbpk7DM9Fzsw6hEF-105" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
           <mxGeometry x="760" y="320" width="210" height="210" as="geometry" />
