@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T17:04:28.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="ku0EeXQ_TL15UzHEBVAu" version="20.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-08-31T20:08:25.749Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8PfpX-LPGhUPKv_fXT95" version="20.2.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Idea Base">
-    <mxGraphModel dx="2590" dy="1143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1351" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -83,7 +83,7 @@
         <mxCell id="KcrB79tQvXw1HkM2O3TV-26" value="Documentos Base" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1800" y="900" width="140" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="KcrB79tQvXw1HkM2O3TV-27" value="CC" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-26" vertex="1">
+        <mxCell id="KcrB79tQvXw1HkM2O3TV-27" value="ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-26" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KcrB79tQvXw1HkM2O3TV-28" value="Diploma Bachiller" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-26" vertex="1">
@@ -143,7 +143,7 @@
         <mxCell id="KcrB79tQvXw1HkM2O3TV-46" value="Segundo Idioma" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-43" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xdb376eWwAGsrhtagtmB-0" value="Reconocimiento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="KcrB79tQvXw1HkM2O3TV-43">
+        <mxCell id="xdb376eWwAGsrhtagtmB-0" value="Reconocimiento" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="KcrB79tQvXw1HkM2O3TV-43" vertex="1">
           <mxGeometry y="120" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KcrB79tQvXw1HkM2O3TV-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KcrB79tQvXw1HkM2O3TV-44" target="KcrB79tQvXw1HkM2O3TV-16" edge="1">
@@ -256,8 +256,43 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="cFW-zVl3-5WZ-JM660Pa" name="Usuario Final">
+    <mxGraphModel dx="1554" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LbV-uIhAF_JUk8TTE9a7-1" value="Frontend" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
+          <mxGeometry x="40" y="320" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-54" value="Login correo CUN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="45" y="350" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
+          <mxGeometry x="520" y="320" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-57" value="Respuesta negativa para grado que incluye los requisitos faltantes&lt;br&gt;&lt;br&gt;- Control de solicitudes&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="525" y="370" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-58" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
+          <mxGeometry x="280" y="320" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="UQRl7Wu-R3-50-JvrKeR-59" value="Respuesta positiva para grado&lt;br&gt;&lt;br&gt;- Fechas&lt;br&gt;-&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="285" y="350" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LxxBXDv3WvRy1CkYBBr0-1" value="Usuario Final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="130" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ErGE4aWiSSZ-WAXdDkHs-1" value="Seleccion de fecha de grado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="285" y="470" width="200" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="c7hfNskfyLxJYvktAnP8" name="Admisintracion">
-    <mxGraphModel dx="1943" dy="858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,41 +496,6 @@
         </mxCell>
         <mxCell id="l9trrbpk7DM9Fzsw6hEF-111" value="Pantalla para establecer los periodos para proceso de grado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="169" y="590" width="200" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="cFW-zVl3-5WZ-JM660Pa" name="Usuario Final">
-    <mxGraphModel dx="942" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="LbV-uIhAF_JUk8TTE9a7-1" value="Frontend" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="40" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
-          <mxGeometry x="40" y="320" width="210" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-54" value="Login correo CUN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="45" y="350" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-56" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
-          <mxGeometry x="520" y="320" width="210" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-57" value="Respuesta negativa para grado que incluye los requisitos faltantes&lt;br&gt;&lt;br&gt;- Control de solicitudes&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="525" y="370" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-58" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.window;" parent="1" vertex="1">
-          <mxGeometry x="280" y="320" width="210" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="UQRl7Wu-R3-50-JvrKeR-59" value="Respuesta positiva para grado&lt;br&gt;&lt;br&gt;- Fechas&lt;br&gt;-&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="285" y="350" width="200" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="LxxBXDv3WvRy1CkYBBr0-1" value="Usuario Final" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="130" y="180" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="ErGE4aWiSSZ-WAXdDkHs-1" value="Seleccion de fecha de grado" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="285" y="470" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
